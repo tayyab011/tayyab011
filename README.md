@@ -1,66 +1,42 @@
-<h1 align="center">Hi 👋, I'm MD Tayyab</h1>
-<h3 align="center">A passionate Mern StacK Developer from Bangladesh</h3>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm MD Tayyab
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab011&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab011" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyab011" alt="tayyab011" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Next-js,React-Redux,Zustand, MongoDB Aggregation Pipelines**
-
-- 💬 Ask me about **React,Js,Nodejs ,ExpressJs, React-Vite**
-
-- 📫 How to reach me **tayyabmd00001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://fb.com/muhammad tayyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad tayyab" height="30" width="40" /></a>
-</p>
-
-<h1 align="center">Hi 👋, I'm MD Tayyab</h1>
-<h3 align="center">A passionate Mern StacK Developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab011&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab011" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyab011" alt="tayyab011" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Next-js, React-Redux, Zustand, MongoDB Aggregation Pipelines**
-
-- 💬 Ask me about **React, Js, Node.js, Express.js, React-Vite**
-
-- 📫 How to reach me **tayyabmd00001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/muhammad tayyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad tayyab" height="30" width="40" /></a>
-</p>
-
-<h1 align="center">Hi 👋, I'm MD Tayyab</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab011&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab011" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyab011" alt="tayyab011" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Next.js, React-Redux, Zustand, MongoDB Aggregation Pipelines**
-
-- 💬 Ask me about **React, JavaScript, Node.js, Express.js, React-Vite**
-
-- 📫 How to reach me **tayyabmd00001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/muhammad tayyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad tayyab" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tayyab011&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab011" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+Tayyab;MERN+Stack+Developer;Passionate+about+Coding+%26+Learning" alt="Typing SVG" />
+</p>
 
+---
+
+### 🚀 About Me
+- 🌱 I’m currently learning **Next.js, React-Redux, Zustand, MongoDB Aggregation Pipelines**
+- 💬 Ask me about **React, JavaScript, Node.js, Express.js, React-Vite**
+- 📫 How to reach me **tayyabmd00001@gmail.com**
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://fb.com/muhammad tayyab" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhammad Tayyab" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🚀 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,zustand,bootstrap,tailwind,git,figma" />
+</p>
+
+<!-- Animated Marquee Icons -->
 <marquee behavior="scroll" direction="left">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
@@ -106,8 +82,36 @@
   </a>
 </marquee>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyab011&show_icons=true&locale=en&layout=compact" alt="tayyab011" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyab011&show_icons=true&locale=en" alt="tayyab011" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyab011&show_icons=true&locale=en" alt="tayyab011" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab011&" alt="tayyab011" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab011&" alt="tayyab011" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyab011&show_icons=true&locale=en&layout=compact" alt="tayyab011" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/tayyab011/tayyab011/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🌆 GitHub Skyline
+![GitHub Skyline](https://github.com/tayyab011/tayyab011/blob/main/skyline.svg)
+
+---
+
+## 🎉 Thank You for Visiting!
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200">
+</p>
