@@ -1,8 +1,8 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm MD Tayyab
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="39">, I'm MD Tayyab
 </h1>
 
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<h2 align="center">A passionate MERN Stack Developer from Bangladesh</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tayyab011&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab011" />
