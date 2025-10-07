@@ -31,10 +31,6 @@
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  &nbsp;
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/>
   </a>
