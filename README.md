@@ -31,9 +31,7 @@
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/>
-  </a>
+
   &nbsp;
   <a href="mailto:tayyabmd00001@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/>
