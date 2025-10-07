@@ -27,12 +27,11 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.facebook.com/muhammad tayyab" target="_blank">
+  <!-- Replace REPLACE_WITH_YOUR_FACEBOOK_URL with your real Facebook URL -->
+  <a href="REPLACE_WITH_YOUR_FACEBOOK_URL" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/>
   </a>
-  &nbsp;
-
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:tayyabmd00001@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/>
   </a>
