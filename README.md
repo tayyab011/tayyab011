@@ -27,13 +27,14 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <!-- Replace REPLACE_WITH_YOUR_FACEBOOK_URL with your real Facebook URL -->
-  <a href="REPLACE_WITH_YOUR_FACEBOOK_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/>
+  <!-- 🌐 Facebook -->
+  <a href="https://www.facebook.com/REPLACE_WITH_YOUR_FACEBOOK_USERNAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tayyabmd00001@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/>
+  <!-- 📧 Gmail -->
+  <a href="mailto:tayyabmd00001@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
