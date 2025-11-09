@@ -18,10 +18,11 @@
 
 ## 🧠 About Me  
 
-- 🌱 I’m currently learning **Next.js, Redux Toolkit, Zustand, and MongoDB Aggregations**  
+- 🌱 I’m currently learning **Next.js, Redux Toolkit for state management**  
 - ⚡ Focused on **building scalable and responsive full-stack applications**  
 - 💬 Ask me about **React, JavaScript, Node.js, Express, Tailwind, and MongoDB**  
 - 📫 Reach me at **tayyabmd00001@gmail.com**
+- 📫 Reach at my codeforces account **https://codeforces.com/profile/tayyab313**
 
 ---
 
