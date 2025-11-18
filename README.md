@@ -14,17 +14,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Passionate+About+Clean+Code+%26+Performance;Lifelong+Learner+🚀" alt="Typing Animation" />
 </p>
 
----
+## About Me
 
-## 🧠 About Me  
+I'm a passionate full-stack developer specializing in modern web technologies, with strong expertise in the MERN stack. I thrive on building scalable, responsive applications that deliver exceptional user experiences.
 
-- 🌱 I’m currently learning **Next.js, Redux Toolkit for state management**  
-- ⚡ Focused on **building scalable and responsive full-stack applications**  
-- 💬 Ask me about **React, JavaScript, Node.js, Express, Tailwind, and MongoDB**  
-- 📫 Reach me at **tayyabmd00001@gmail.com**
-- 📫 Reach at my codeforces account **https://codeforces.com/profile/tayyab313**
+**🛠 Technical Focus**
+- Developing high-performance full-stack applications with clean, maintainable code
+- Implementing responsive designs and optimized user interfaces
+- Building robust backend systems with efficient database architecture
 
----
+**📚 Currently Mastering**
+- **Advanced Frameworks:** Next.js and state management with Redux Toolkit
+- **Core Fundamentals:** Data Structures & Algorithms for optimized problem-solving
+- **System Design:** Building scalable and maintainable application architecture
+
+**💡 Core Competencies**
+- Frontend: React, JavaScript, TypeScript, Tailwind CSS
+- Backend: Node.js, Express, MongoDB, REST APIs
+- Tools: Git, VS Code, Postman, Vercel/Netlify
+
+**📫 Let's Connect**
+- Email: tayyabmd00001@gmail.com
+- Codeforces: [tayyab313](https://codeforces.com/profile/tayyab313)
+- Always open to discussing tech, collaborations, and new opportunities!
 
 ## 🌐 Connect with Me
 <p align="center">
