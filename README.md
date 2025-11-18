@@ -53,6 +53,10 @@ I'm a passionate full-stack developer specializing in modern web technologies, w
   <a href="mailto:tayyabmd00001@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
   </a>
+   &nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send/?phone=8801644385198&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="40" height="40"/>
+</a>
 </p>
 
 ---
