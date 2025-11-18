@@ -26,10 +26,10 @@ I'm a passionate full-stack developer specializing in modern web technologies, w
 **📚 Currently Mastering**
 - **Advanced Frameworks:** Next.js and state management with Redux Toolkit
 - **Core Fundamentals:** Data Structures & Algorithms for optimized problem-solving
-- **System Design:** Building scalable and maintainable application architecture
+- **System Design:** Building scalable and maintainable application  using **MVC** pattern
 
 **💡 Core Competencies**
-- Frontend: React, JavaScript, TypeScript, Tailwind CSS
+- Frontend: React, JavaScript, Tailwind CSS 
 - Backend: Node.js, Express, MongoDB, REST APIs
 - Tools: Git, VS Code, Postman, Vercel/Netlify
 
