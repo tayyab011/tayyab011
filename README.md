@@ -1,4 +1,8 @@
 <!-- Profile Header -->
+<!-- Cover Banner -->
+<p align="center">
+  <img src="https://github.com/tayyab011/tayyab011/blob/main/ChatGPT%20Image%20Nov%2018%2C%202025%2C%2011_15_40%20PM.png" alt="Cover Image" width="100%" />
+</p>
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <span style="color:#4FC3F7;">MD Tayyab</span>
 </h1>
