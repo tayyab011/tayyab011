@@ -37,10 +37,6 @@ I'm a passionate full-stack developer specializing in modern web technologies, w
 - Backend: Node.js, Express, MongoDB, REST APIs
 - Tools: Git, VS Code, Postman, Vercel/Netlify
 
-**📫 Let's Connect**
-- Email: tayyabmd00001@gmail.com
-- Codeforces: [tayyab313](https://codeforces.com/profile/tayyab313)
-- Always open to discussing tech, collaborations, and new opportunities!
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -56,6 +52,10 @@ I'm a passionate full-stack developer specializing in modern web technologies, w
    &nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send/?phone=8801644385198&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="40" height="40"/>
+</a>
+   &nbsp;&nbsp;
+<a href="https://codeforces.com/profile/tayyab313" target="_blank" rel="noopener noreferrer">
+  <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcer3l19eex0wy900b101.jpg" alt="Codeforces" width="40" height="40" />
 </a>
 </p>
 
