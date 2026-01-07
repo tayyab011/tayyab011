@@ -7,7 +7,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <span style="color:#4FC3F7;">MD Tayyab</span>
 </h1>
 
-<h3 align="center">💻 MERN Stack Developer | 🌍 From Bangladesh</h3>
+<h3 align="center"> MERN Stack Developer |  From Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tayyab011&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -15,7 +15,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Passionate+About+Clean+Code+%26+Performance;Lifelong+Learner+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Passionate+About+Clean+Code+%26+Performance;Lifelong+Learner+" alt="Typing Animation" />
 </p>
 
 ## About Me
