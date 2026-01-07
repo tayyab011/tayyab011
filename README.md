@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <!-- Cover Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/tayyab011/tayyab011/blob/main/2590.jpg" alt="Cover Image" width="100%" />
-</p>
+</p> -->
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <span style="color:#4FC3F7;">MD Tayyab</span>
 </h1>
