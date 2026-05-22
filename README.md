@@ -40,11 +40,7 @@ I'm a passionate full-stack developer specializing in modern web technologies, w
 
 ## 🌐 Connect with Me
 <p align="center">
-  <!-- 🌐 Facebook -->
-  <a href="https://www.facebook.com/REPLACE_WITH_YOUR_FACEBOOK_USERNAME" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
+
   <!-- 📧 Gmail -->
   <a href="mailto:tayyabmd00001@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
